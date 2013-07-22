@@ -67,9 +67,13 @@
         background-color: #FAEFE4;
         padding: 3% 0%;
       }
-      .video, .thermometer, .order, .social, .statistics {
+      .video, .thermometer, .order, .statistics {
         text-align: center;
       }
+      .social {
+	  text-align: left;
+	  }
+
       .statistics h3, .statistics p {
         color:#072992;
       }
